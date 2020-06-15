@@ -1,18 +1,22 @@
 README
 ------------------
 Gordian Bruns
+
 CS365
+
 Lab D - Neural Networks
 ------------------
 
 I. File List
  - main.py  # contains xor, sigmoid, init_weights_biases, read_file_to_array, forward_propagate, find_loss, backprop, update_weights_biases, model_file
 
+
 II. Usage
+
 The program takes three command line arguments:
-	- filename
-	- epochs
-	- learning_rate
+  - filename
+  - epochs
+  - learning_rate
 
 Also, epochs must be an integer greater than 0 and learning_rate must be a float between 0.0 and 1.0.
 
