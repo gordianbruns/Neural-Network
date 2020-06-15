@@ -25,6 +25,7 @@ After every 1000 epochs, it will print the current loss and the current epoch.
 Eventually, it will print the final dictionary, which withholds the weights and biases of each node.
 
 To run the program you must be in the directory of the files and type the following into the command line:
+
 python main.py [filename] [epochs] [learning_rate]
 
 Note that the file we use to train the program must be in the same directory as the program.
